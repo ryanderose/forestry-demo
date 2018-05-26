@@ -42,3 +42,8 @@ fields:
   name: test_sort_list
   label: test sort list
   description: asdfs
+  default:
+  - dsfasdf
+  - sdfadsfa
+  - sdfasdf
+  - sdfadsf
